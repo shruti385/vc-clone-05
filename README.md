@@ -1,2 +1,3 @@
 # vc-clone-05
-this practical for clone directory
+this practical for clone directory 
+author:shruti 
